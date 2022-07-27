@@ -7,7 +7,7 @@ It's an NLP project that main goal is to analyse tweets using neural network and
 ## Details for certification purpose
 
 * email: ghazibouchnak@gmail.com
-* video link:
+* video link: https://share.vidyard.com/watch/yDyBhkeBzijPXThvdPZaRs?
 
 
 ## Getting Started
@@ -28,7 +28,7 @@ The python packages can be installed with pip : pip3 install or !pip install if 
 
 ## Deployment
 
-If you need to deploy this repo, you will have to use the datastet in the repo called train.csv
+If you need to deploy this repo, you will have to use the datastets in the repo called train.csv and test.csv
 The trained model can be loaded directly from "LSTM_model.h5" file
 
 ## Built With
